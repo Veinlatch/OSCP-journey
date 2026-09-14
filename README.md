@@ -20,3 +20,6 @@ tapi memahami arsitektur sistem & jaringan di baliknya.
 
 ## Structure
 Lihat folder di atas untuk writeup per topik/level.
+
+"Add: Bandit Level 5 writeup"
+"Update: networking notes - TCP handshake"
